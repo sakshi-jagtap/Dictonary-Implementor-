@@ -1,4 +1,4 @@
-##Dictionary Implementation in C
+## Dictionary Implementation in C
 This project is a simple implementation of a dictionary data structure in C. The dictionary is implemented using an array of rows, with each row containing a number of key-value pairs.
 
 #How to Use
